@@ -18,9 +18,6 @@ export default function Home() {
             <Button size="lg" className="text-lg px-8 py-3">
               Get Started Free
             </Button>
-            <Button variant="outline" size="lg" className="text-lg px-8 py-3">
-              View Demo
-            </Button>
           </div>
         </div>
       </section>
